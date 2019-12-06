@@ -8,7 +8,7 @@ Here i have my laboratory work for OOP - 1st semester 2nd year
  - [x] 5. Abstract classes, Singleton
  - [x] 6. Internal classes
  - [x] 7. Overriding, Overloading & Visitor Pattern
- - [ ] 8. Collections
+ - [x] 8. Collections
  - [ ] 9. Generics
  - [ ] 10. Exceptions
  - [ ] 11. Design Patterns(part 1)
