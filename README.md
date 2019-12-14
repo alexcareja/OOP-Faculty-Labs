@@ -10,6 +10,6 @@ Here i have my laboratory work for OOP - 1st semester 2nd year
  - [x] 7. Overriding, Overloading & Visitor Pattern
  - [x] 8. Collections
  - [x] 9. Generics
- - [ ] 10. Exceptions
+ - [x] 10. Exceptions
  - [ ] 11. Design Patterns(part 1)
  - [ ] 12. Design Patterns(part 2)
