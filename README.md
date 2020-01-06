@@ -12,4 +12,4 @@ Here i have my laboratory work for OOP - 1st semester 2nd year
  - [x] 9. Generics
  - [x] 10. Exceptions
  - [x] 11. Design Patterns(part 1)
- - [x] 12. Design Patterns(part 2)
+ - [ ] 12. Design Patterns(part 2)
