@@ -1,5 +1,5 @@
 # OOP-Faculty-Labs
-### Autumn/Winter 2019
+### Year: 2019-2020
 Laboratory work for OOP - 1st semester 2nd year
 ## Course contents:
  - [x] 1. Java Basics
